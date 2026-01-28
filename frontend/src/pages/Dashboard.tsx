@@ -62,10 +62,6 @@ export default function Dashboard() {
       <div style={{ marginTop: 16 }}>
         <ResultPanel result={result} correlationId={correlationId} diff={diff} />
       </div>
-
-      <div className="muted" style={{ marginTop: 14 }}>
-        Tip: Deploy backend on Render/Railway and frontend on Vercel. Set Vercel env var <b>VITE_API_BASE</b> to backend URL.
-      </div>
     </>
   );
 }
