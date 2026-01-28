@@ -116,6 +116,15 @@ This project:
 - Non-technical stakeholders seeking clarity
 - Engineers learning real production debugging workflows
 
+# 🚨 ProdBug Lab  
+### How to Diagnose and Resolve Bugs That Occur in Production but Not in Development
+
+🔗 **Live Demo:**  
+https://prod-bug-pmq7ep8ov-nikhileshs-projects-08db730e.vercel.app/
+
+🔗 **Backend API:**  
+https://prod-bug-lab.onrender.com/api/scenarios
+
 ## ✅ Summary
 
 If you understand this application, you understand how real production issues are identified, fixed, and prevented.
